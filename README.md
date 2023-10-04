@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sebastian <img src="https://cdn3.emoji.gg/emojis/8357-wumpus-activity.png" width="64px" height="64px" alt="Wumpus_Activity"></h1> 
 <h3 align="center">A passionate Front-End developer from Uruguay</h3>
 
-- 🔭 I’m currently working on my **JavaScript Course**
+- 🔭 I’m currently working on my **React js course**
 
-- 🌱 I’m currently learning **JavaScript, HTML5 and CSS3**
+- 🌱 I’m currently learning **JavaScript, HTML5, React Js and CSS3**
 
 - 👯 I’m looking to collaborate on **front-end projects**
 

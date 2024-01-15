@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sebastian <img src="https://cdn3.emoji.gg/emojis/8357-wumpus-activity.png" width="64px" height="64px" alt="Wumpus_Activity"></h1> 
 <h3 align="center">A passionate Front-End developer from Uruguay</h3>
 
-- 🔭 I’m currently working on my **React js course**
+- 🔭 I’m currently working on my **React Native course**
 
-- 🌱 I’m currently learning **JavaScript, HTML5, React Js and CSS3**
+- 🌱 I’m currently learning **JavaScript, Next.js, React.js and CSS3**
 
 - 👯 I’m looking to collaborate on **front-end projects**
 
@@ -29,6 +29,20 @@
   <a href="https://www.w3schools.com/css/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   </a> 
+
+ <a href="https://www.w3schools.com/css/" target="_blank"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" alt="css3" width="40" height="40"/> 
+  </a> 
+
+   <a href="https://www.w3schools.com/css/" target="_blank"> 
+    <img src="https://icons8.com/icon/dJjTWMogzFzg/vite" width="40" height="40"/> 
+  </a> 
+
+
+   <a href="https://www.w3schools.com/css/" target="_blank"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40"/> 
+  </a> 
+
   
   <a href="https://getbootstrap.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40" />
